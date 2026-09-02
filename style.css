@@ -1,0 +1,18 @@
+body    {
+    text-align: center;
+    background-color: black;
+}
+
+button  {
+    padding: 10px;
+    border-radius: 45%;
+    background-color: green;
+}
+
+.caixaMaior  {
+    color: white;
+}
+
+.caixaMenor    {
+    background-color: gray;
+}
